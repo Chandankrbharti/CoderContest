@@ -3,7 +3,6 @@ package com.coder.contest;
 // A JAVA program to put positive numbers at even indexes
 // (0, 2, 4,..) and negative numbers at odd indexes (1, 3,
 // 5, ..)
-import java.io.*;
 
 class Alternate {
 
